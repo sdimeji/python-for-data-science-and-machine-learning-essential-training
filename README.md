@@ -1,17 +1,17 @@
 # Python for Data Science and Machine Learning Essential Training
-This is the repository for the LinkedIn Learning course Python for Data Science and Machine Learning Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for a GitHub course Python for Data Science and Machine Learning Essential Training. This course is created to help train and impact knowledge in data science.
 
 ![lil-thumbnail-url]
 
-Python for Data Science and Machine Learning Essential Training is one of the most popular data science courses at LinkedIn Learning. It has now been updated and expanded to two parts-giving you even more hands-on, real-world Python experience. In part one, instructor Lillian Pierson takes you step by step through a data science and machine learning project: a web scraper that downloads and analyzes data from the web. Along the way, she introduces techniques to clean, reformat, transform, and describe raw data; generate visualizations; remove outliers; perform simple data analysis; and generate web-based graphs using Streamlit. By the end of this course, you'll have acquired basic coding experience that you can take to your organization and quickly apply to your own custom data science and machine learning projects.
+Python for Data Science and Machine Learning Essential Training is one of the most popular data science courses. It has now been updated and expanded to two parts-giving you even more hands-on, real-world Python experience. In part one, takes you step by step through a data science and machine learning project: a web scraper that downloads and analyzes data from the web. Along the way, I introduce techniques to clean, reformat, transform, and describe raw data; generate visualizations; remove outliers; perform simple data analysis; and generate web-based graphs using Streamlit. By the end of this course, you'll have acquired basic coding experience that you can take to your organization and quickly apply to your own custom data science and machine learning projects.
 
 This course is integrated with GitHub Codespaces, an instant cloud developer environment that offers all the functionality of your favorite IDE without the need for any local machine setup. With GitHub Codespaces, you can get hands-on practice from any machine, at any time-all while using a tool that you'll likely encounter in the workplace. Check out the "Using GitHub Codespaces with this course" video to learn how to get started.
 
 ### Instructor
 
-Lillian Pierson, P.E.
+Oladimeji Adegoke
 
-Engineer, CEO, and Head of Product at Data-Mania
+AI Solution Engineer
 
                             
 
